@@ -1,0 +1,26 @@
+{
+  "name": "detect-os-browser.js",
+  "version": "1.0.0",
+  "description": "detect os and browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxt1992/detect-os-browser.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sxt1992/detect-os-browser.js/issues"
+  },
+  "homepage": "https://github.com/sxt1992/detect-os-browser.js#readme",
+  "devDependencies": {
+    "rollup": "^1.7.4",
+    "rollup-plugin-commonjs": "^9.2.2",
+    "rollup-plugin-uglify": "^6.0.2"
+  }
+}
